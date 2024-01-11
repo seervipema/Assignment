@@ -1,7 +1,7 @@
 # Assignment
 - React Applicant 
 
-# Instructions to run the applicant
+# Instructions to run the application
  - Install Node version v18.10.0
  - Step 1 : nvm install v18.10.0
  - Step 2 : nvm use v18.10.0
