@@ -1,5 +1,5 @@
 # Assignment
-- React Applicant 
+- React Applicantion 
 
 # Instructions to run the application
  - Install Node version v18.10.0
